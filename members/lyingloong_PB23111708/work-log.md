@@ -11,7 +11,7 @@
 | **GitHub 用户名** | yinuogit |
 | **Github 邮箱** | liuynliu@outlook.com |
 |**主页链接**|
-|**简历链接**|
+|**简历链接**|https://yinuogit.github.io/tr/phase1/mine
 
 ## 📅 完成记录
 
