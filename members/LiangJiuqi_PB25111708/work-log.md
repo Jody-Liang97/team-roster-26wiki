@@ -23,7 +23,7 @@
 - **完成任务**：使用html+css书写网页版个人简历
 - **估计完成时间**：4小时
 - **实际完成时间**：2天
-  - [GitHub仓库](https://github.com/Jody-Liang97/team-roster-26wiki)
+  - [GitHub仓库](https://github.com/Jody-Liang97/Jody-Liang97.github.io)
   - [GitHub Pages链接](https://jody-liang97.github.io/)
 
 
@@ -38,7 +38,7 @@
 - **尚未完成**：React架构学习（在奋力学习中，完工之后一定会马上提交）
 - **预计完成时间**：5天
 - **相关链接**：
-  - [GitHub仓库](https://github.com/Jody-Liang97/team-roster-26wiki)
+  - [GitHub仓库](https://github.com/Jody-Liang97/Jody-Liang97.github.io)
   - [GitHub Pages链接](https://jody-liang97.github.io/)
 ---
 
@@ -48,7 +48,7 @@
 - **完成时间**：两周
 - **尚未完成**：React进阶以及更多的美学设计
 - **相关链接**：
-  - [GitHub仓库](https://github.com/Jody-Liang97/team-roster-26wiki)
+  - [GitHub仓库](https://github.com/Jody-Liang97/Jody-Liang97.github.io)
   - [GitHub Pages链接](https://jody-liang97.github.io/)
 ---
 
